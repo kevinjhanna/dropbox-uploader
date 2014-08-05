@@ -38,4 +38,4 @@ And on the server, you can do something like this
     $ gem install cuba
     $ rackup -p 8080
 
-    Now you can visit ``localhost:8080`` to try it out.
+Now you can visit ``localhost:8080`` to try it out.
