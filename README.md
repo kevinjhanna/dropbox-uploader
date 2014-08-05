@@ -30,6 +30,7 @@ And on the server, you can do something like this
     on post do
       db = DropboxUploader.new(access_token)
       url = db.upload(req.POST["file"])
+      res.write "<img src='#{url}'>"
     end
 
 ## How to run the example
