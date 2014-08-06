@@ -1,7 +1,7 @@
 # DropboxUploader
 
 A simple wrapper for the Dropbox client for beginners who don't want to
-go through all the pain of registering for s3 and just want to quickly build their first app.
+go through all the pain of registering for s3 and just want to quickly build their first app that handles file uploads.
 
 This repo also helps as an example of how to upload a file using a rack app.
 
